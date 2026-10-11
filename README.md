@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,30&height=200&section=header&text=SQUEAREX&fontSize=56&fontAlignY=38&animation=twinkling&fontColor=00f0ff" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Reverse+Engineer+%26+Game+Modder;%F0%9F%9B%A0%EF%B8%8F+Low-Level+Systems+Engineer+(C%2B%2B%20%2F%20C%23%20%2F%20C);%F0%9F%8C%90+Full-Stack+Architect+(TypeScript%2C+Next.js);%F0%9F%8E%AE+Game+Server+%26+Matchmaking+Infrastructure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=%E2%9A%A1+SX+Development+%7C+Lead+Developer;%F0%9F%9B%A0%EF%B8%8F+Reverse+Engineer+%26+Game+Modder;%F0%9F%94%A7+Low-Level+Systems+(C%2B%2B%20%2F%20C%23%20%2F%20C);%F0%9F%8C%90+Full-Stack+Architect+(TypeScript%2C+Next.js);%F0%9F%8E%AE+Game+Server+%26+Matchmaking+Infrastructure" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <i>"Decompiling the impossible, engineering low-level systems, and crafting responsive web architectures."</i>
+    <i>"Decompiling the impossible, engineering low-level systems, and crafting responsive web architectures at <b>SX Development</b>."</i>
   </p>
 </div>
 
@@ -17,12 +17,29 @@
 ```cpp
 struct Developer {
     const char* handle        = "Squearex";
-    const char* role          = "Systems Engineer & Game Internals Specialist";
+    const char* studio        = "SX Development";
+    const char* role          = "Founder & Systems Architect";
     const char* primary_tech  = "C++20, C#, TypeScript, Next.js, Lua";
-    const char* current_focus = "Game modding, hook engines, binary analysis & scalable web platforms";
+    const char* current_focus = "Game internals, automated server matchmaking & custom tooling";
     bool        coffee_fueled = true;
 };
 ```
+
+---
+
+### 🚀 SX Development — Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🎯 **MMatch** | FACEIT-style automated competitive matchmaking platform for CS:S. Real-time lobbies, MMR tracking, and dedicated server orchestration. | `TypeScript` `Next.js` `SourcePawn` |
+| 🛡️ **SCUM LiteMod & SDK** | Lightweight game client modification, memory hook engine, dynamic binary patcher, and reverse-engineered internals SDK. | `C++` `C` `Lua` `Python` |
+| 🎛️ **SCUM Unified Controller & Dashboard** | High-performance C++/C# server daemon and Next.js web control panel for real-time instance automation and telemetry. | `C++` `C#` `Next.js` `TypeScript` |
+| 🎮 **SX HUD** | In-game modular HUD & overlay architecture powered by Lua game bindings and reactive web frontend interfaces. | `Lua` `JavaScript` `CSS` |
+| ⛏️ **XMine Client** | Custom game client architecture with optimized network protocol handling and game loop overrides. | `Java` |
+
+</div>
 
 ---
 
