@@ -52,8 +52,8 @@ struct Developer {
 
 #### 🔍 Reverse Engineering & Systems Tools
 <p>
-  <img src="https://img.shields.io/badge/IDA_Pro-000000?style=for-the-badge&logo=target&logoColor=00F0FF" alt="IDA Pro" />
-  <img src="https://img.shields.io/badge/Reverse_Engineering-FF0055?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Reverse Engineering" />
+  <img src="https://raw.githubusercontent.com/Squearex/Squearex/main/assets/ida_pro.svg" alt="IDA Pro" height="28" />
+  <img src="https://raw.githubusercontent.com/Squearex/Squearex/main/assets/reverse_engineering.svg" alt="Reverse Engineering" height="28" />
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
